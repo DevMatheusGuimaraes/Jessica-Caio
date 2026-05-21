@@ -121,7 +121,7 @@ body {
   justify-content: center;
   align-items: center;
   display: block;
-  /* margin-top: 26px; */
+  margin-top: -26px;
   /* margin-bottom: -30px; */
 }
 
